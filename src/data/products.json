@@ -1,0 +1,62 @@
+[
+  {
+    "id": "whey-900",
+    "name": "Whey Protein Concentrado 900g — Chocolate",
+    "category": "proteinas",
+    "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=600&h=600&fit=crop",
+    "originalPrice": 149.9,
+    "price": 99.9,
+    "pixPrice": 89.91,
+    "badge": "Mais Vendido"
+  },
+  {
+    "id": "creatina-300",
+    "name": "Creatina Monohidratada 300g — Pure",
+    "category": "creatina",
+    "image": "https://images.unsplash.com/photo-1579722829763-2a58cf1c1b6f?w=600&h=600&fit=crop",
+    "originalPrice": 89.9,
+    "price": 59.9,
+    "pixPrice": 53.91,
+    "badge": "Mais Vendido"
+  },
+  {
+    "id": "bcaa-120",
+    "name": "BCAA 2:1:1 120 cápsulas — Performance",
+    "category": "aminoacidos",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600&h=600&fit=crop",
+    "originalPrice": 79.9,
+    "price": 54.9,
+    "pixPrice": 49.41,
+    "badge": null
+  },
+  {
+    "id": "pre-treino-300",
+    "name": "Pré-Treino Hardcore 300g — Frutas Vermelhas",
+    "category": "pre-treinos",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&h=600&fit=crop",
+    "originalPrice": 119.9,
+    "price": 79.9,
+    "pixPrice": 71.91,
+    "badge": "Lançamento"
+  },
+  {
+    "id": "multivit-60",
+    "name": "Multivitamínico Daily 60 cápsulas",
+    "category": "vitaminas",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&h=600&fit=crop",
+    "originalPrice": 69.9,
+    "price": 44.9,
+    "pixPrice": 40.41,
+    "badge": "Oferta"
+  },
+  {
+    "id": "protein-veg-600",
+    "name": "Protein Vegana 600g — Baunilha",
+    "category": "vegano",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&h=600&fit=crop",
+    "originalPrice": 139.9,
+    "price": 94.9,
+    "pixPrice": 85.41,
+    "badge": "Lançamento"
+  }
+]
