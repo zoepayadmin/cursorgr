@@ -1,0 +1,11 @@
+Exportação Petlove — Ração Seca para Cachorro
+Total: 1077 produtos
+Categoria: https://www.petlove.com.br/cachorro/racoes/racao-seca
+
+Arquivos:
+- produtos.json — dados completos
+- produtos.csv  — planilha (Excel/Sheets)
+
+Imagens: URLs em imagens_hd_large / imagens_todas
+Para baixar arquivos de imagem localmente:
+  python3 scripts/scrape_petlove.py --download-images
